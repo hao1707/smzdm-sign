@@ -22,7 +22,6 @@ const cookieListValKey = [
 	},
 ];
 
-
 //回复列表 用于发表评论的内容
 let commitList = [
 	'感谢分享，这个价可以入手吗 ',
